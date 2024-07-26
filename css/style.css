@@ -1,0 +1,12 @@
+header{
+    position: fixed;
+    top: 30px;
+    left: 40px;
+    max-width: 900px;
+    background-color: red;
+    color: green;
+}
+main{
+    max-width: 900px;
+    
+}
